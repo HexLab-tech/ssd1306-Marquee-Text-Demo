@@ -7,7 +7,7 @@
 
 Adafruit_SSD1306 display(W, H, &Wire, -1);
 
-const char text[] = "CANIM ANAM";
+const char text[] = "your text here";
 
 int textSize = 3;          // KOCAMAN
 int textX;                 // kayan X
